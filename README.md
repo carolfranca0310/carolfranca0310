@@ -1,6 +1,6 @@
 ### Olá, sou Caroline Araújo 
 
-- 🌱 Estou aprendendo: JavaScript
+- 🌱 Estou aprendendo: React
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fato interessante: Sou ex aluna de Ciências Contábeis, e tranquei a faculdade no 7º período para estudar programação.
 
