@@ -1,8 +1,10 @@
 ### Olá, sou Caroline Araújo 
 
-- 🌱 Estou aprendendo: React
+- Sou graduanda em Engenharia de Software e faço parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde estudo sobre Desenvolvimento Web Full Stack. Na Resilia crio projetos, trabalho em equipe e desenvolvo habilidades soft skill. Sou uma ex-aluna de Ciências Contábeis que se encontrou na programação.
+
+Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos.
 - 😄 Pronomes: Ela/Dela
-- ⚡ Fato interessante: Sou ex aluna de Ciências Contábeis, e tranquei a faculdade no 7º período para estudar programação.
+- ⚡ Fato interessante: Sou vegetariana.
 
 <div align="center">
   <a href="https://github.com/carolfranca0310">
