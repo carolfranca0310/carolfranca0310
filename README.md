@@ -1,10 +1,10 @@
 ### Olá, sou Caroline Araújo 
 
-- Sou graduanda em Engenharia de Software e faço parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde estudo sobre Desenvolvimento Web Full Stack. Na Resilia crio projetos, trabalho em equipe e desenvolvo habilidades soft skill. Sou uma ex-aluna de Ciências Contábeis que se encontrou na programação.
+- Sou graduanda em Engenharia de Software e fiz parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde fui introduzida ao Desenvolvimento Web Full Stack. Na Resilia criei projetos com javascript e nodejs, trabalhei em equipe e desenvolvi habilidades de soft skill. Sou uma ex-aluna de Ciências Contábeis que se encontrou na programação.
 
 Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos.
 - 😄 Pronomes: Ela/Dela
-- ⚡ Fato interessante: Sou vegetariana.
+- ⚡ Fato interessante: Sou vegetariana a 4 anos.
 
 <div align="center">
   <a href="https://github.com/carolfranca0310">
