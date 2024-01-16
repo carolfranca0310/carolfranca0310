@@ -1,6 +1,6 @@
 ### Olá, sou Caroline Araújo 
 
-- Sou graduanda em Engenharia de Software e estagiária de Desenvolvimento de Sistemas. Fiz parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde fui introduzida ao Desenvolvimento Web Full Stack. Na Resilia criei projetos com javascript e nodejs, trabalhei em equipe e desenvolvi habilidades de soft skill. Sou uma ex-aluna de Ciências Contábeis que se encontrou na programação.
+- Sou graduanda em Engenharia de Software e estagiária de Desenvolvimento de Sistemas. Fiz parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde fui introduzida ao Desenvolvimento Web Full Stack. Atuo como estagiária de desenvolvimento na Grendene SA, com manutenção e sustentação de aplicações C#.
 
 Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos.
 - 😄 Pronomes: Ela/Dela
