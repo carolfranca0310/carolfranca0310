@@ -4,7 +4,6 @@
 
 Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos.
 - 😄 Pronomes: Ela/Dela
-- ⚡ Fato interessante: Sou vegetariana a 4 anos.
 
 <div align="center">
   <a href="https://github.com/carolfranca0310">
