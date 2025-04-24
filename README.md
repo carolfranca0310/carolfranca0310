@@ -1,9 +1,8 @@
 ### Olá, sou Caroline Araújo 
 
-- Sou graduanda em Engenharia de Software e estagiária de Desenvolvimento de Sistemas. Fiz parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde fui introduzida ao Desenvolvimento Web Full Stack. Atuei como estagiária de desenvolvimento na Grendene SA, com manutenção e sustentação de aplicações C# por 11 meses.
+- Sou graduanda em Engenharia de Software e estagiária de Desenvolvimento de Sistemas. Fiz parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde fui introduzida ao Desenvolvimento Web Full Stack. Experiência prática em desenvolvimento web utilizando .Net, Angular, React, NestJS e Node.js. Atuei no desenvolvimento de aplicações completas com foco em performance e boas práticas. Tenho facilidade em aprender novas tecnologias e colaborar em equipe para entrega de soluções eficientes.
 
 Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos.
-- 😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/carolfranca0310">
