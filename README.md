@@ -1,13 +1,15 @@
 ### Olá, sou Caroline Araújo / Hello, I’m Caroline Araújo
 PT-BR
-- Sou graduanda em Engenharia de Software e estagiária de Desenvolvimento de Sistemas. Fiz parte de uma turma B2B na Resilia Educação em parceria com a Stone, onde fui introduzida ao Desenvolvimento Web Full Stack. Com experiência prática em desenvolvimento web, atuei no desenvolvimento de aplicações completas com foco em performance e boas práticas. Tenho facilidade em aprender novas tecnologias e colaborar em equipe para entrega de soluções eficientes.
+- Sou graduanda em Engenharia de Software, com experiência prática em desenvolvimento de sistemas. Participei de uma turma B2B na Resilia Educação em parceria com a Stone, onde fui introduzida ao Desenvolvimento Web Full Stack. Tenho atuado no desenvolvimento de aplicações completas, com foco em performance e boas práticas de codificação. Tenho facilidade para aprender novas tecnologias e colaborar em equipe para a entrega de soluções eficientes.
+Tenho dois anos de experiência em desenvolvimento, atuando entre 2024 e 2025 com foco em desenvolvimento web responsivo.
 
-Aqui busco compartilhar meu processo de aprendizagem e aprender novos assuntos.
+Neste espaço, busco compartilhar meu processo de aprendizagem e expandir meus conhecimentos em novas áreas.
 
 US
-- I am a Software Engineering undergraduate and a Systems Development intern. I was part of a B2B class at Resilia Educação in partnership with Stone, where I was introduced to Full Stack Web Development. With practical experience in web development, I have worked on developing complete applications focusing on performance and best practices. I’m quick to learn new technologies and collaborate in a team to deliver efficient solutions.
-  
-Here I aim to share my learning process and explore new topics.
+- I am a Software Engineering undergraduate with practical experience in systems development. I participated in a B2B program at Resilia Educação in partnership with Stone, where I was introduced to Full Stack Web Development. I have worked on developing complete applications focusing on performance and best practices. I am quick to learn new technologies and collaborate effectively within a team to deliver efficient solutions.
+I have two years of development experience, working from 2024 to 2025 with a focus on responsive web development.
+
+Here, I aim to share my learning journey and explore new topics.
 
 <div align="center">
   <a href="https://github.com/carolfranca0310">
