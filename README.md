@@ -9,11 +9,12 @@ Tenho três anos de experiência em desenvolvimento, atuando entre **2023 e 2025
 
 ---
 
-<div align="center">
-  <a href="https://github.com/carolfranca0310">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolfranca0310&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfranca0310&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-carol.vercel.app/api?username=carolfranca0310&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-carol.vercel.app/api/top-langs/?username=carolfranca0310&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
 
 ##
 
