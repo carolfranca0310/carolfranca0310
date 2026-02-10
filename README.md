@@ -1,15 +1,13 @@
-### Olá, sou Caroline Araújo / Hello, I’m Caroline Araújo
-PT-BR
-- Sou graduanda em Engenharia de Software, com experiência prática em desenvolvimento de sistemas. Participei de uma turma B2B na Resilia Educação em parceria com a Stone, onde fui introduzida ao Desenvolvimento Web Full Stack. Tenho atuado no desenvolvimento de aplicações completas, com foco em performance e boas práticas de codificação. Tenho facilidade para aprender novas tecnologias e colaborar em equipe para a entrega de soluções eficientes.
-Tenho dois anos de experiência em desenvolvimento, atuando entre 2024 e 2025 com foco em desenvolvimento web responsivo.
+# ✨ Seja bem-vindo!
 
-Neste espaço, busco compartilhar meu processo de aprendizagem e expandir meus conhecimentos em novas áreas.
+## 👩🏽‍💻 Sobre mim
+Tenho 25 anos, sou graduada em Engenharia de Software, com experiência prática em desenvolvimento de sistemas.  
+Participei de uma turma B2B na **Resilia Educação**, em parceria com a **Stone**, onde fui introduzida ao Desenvolvimento Web **Full Stack**.  
+Atuei no desenvolvimento de aplicações completas, com foco em **performance**, **boas práticas** e **responsividade**.
 
-US
-- I am a Software Engineering undergraduate with practical experience in systems development. I participated in a B2B program at Resilia Educação in partnership with Stone, where I was introduced to Full Stack Web Development. I have worked on developing complete applications focusing on performance and best practices. I am quick to learn new technologies and collaborate effectively within a team to deliver efficient solutions.
-I have two years of development experience, working from 2024 to 2025 with a focus on responsive web development.
+Tenho três anos de experiência em desenvolvimento, atuando entre **2023 e 2025**, com foco em desenvolvimento web responsivo.
 
-Here, I aim to share my learning journey and explore new topics.
+---
 
 <div align="center">
   <a href="https://github.com/carolfranca0310">
@@ -21,9 +19,4 @@ Here, I aim to share my learning journey and explore new topics.
 
 <div> 
   <a href="https://www.linkedin.com/in/carolinearaujodefranca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<div> 
-  <a href="https://carolfranca0310.github.io/meuPortifolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio" />
-  </a> 
 </div>
