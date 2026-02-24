@@ -9,13 +9,6 @@ Tenho três anos de experiência em desenvolvimento, atuando entre **2023 e 2025
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-carol.vercel.app/api?username=carolfranca0310&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats-carol.vercel.app/api/top-langs/?username=carolfranca0310&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-
 ##
 
 <div> 
