@@ -1,7 +1,7 @@
 # ✨ Seja bem-vindo!
 
 ## 👩🏽‍💻 Sobre mim
-Tenho 25 anos, sou graduada em Engenharia de Software, com experiência prática em desenvolvimento de sistemas.  
+Tenho 25 anos, sou graduada em Engenharia de Software, com experiência prática em desenvolvimento de sistemas, pós graduanda em Análise Estratégica de Dados pelo Instituto Federal de Minas Gerais.  
 Participei de uma turma B2B na **Resilia Educação**, em parceria com a **Stone**, onde fui introduzida ao Desenvolvimento Web **Full Stack**.  
 Atuei no desenvolvimento de aplicações completas, com foco em **performance**, **boas práticas** e **responsividade**.
 
